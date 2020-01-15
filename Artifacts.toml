@@ -1,0 +1,9 @@
+[[PlatformSupport-x86_64-apple-darwin14]]
+arch = "x86_64"
+git-tree-sha1 = "37535b8748acd9d6fe6f9e0fe0e9f670c7066cc5"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-x86_64-apple-darwin14.download]]
+    sha256 = "73657564bbe36672e90fba4c553af7af86b1b927b46381942318b8ed0d3ff735"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-x86_64-apple-darwin14_jll.jl/releases/download/PlatformSupport-x86_64-apple-darwin14-v2020.1.15+0/PlatformSupport-x86_64-apple-darwin14.v2020.1.15.x86_64-linux-musl.tar.gz"
